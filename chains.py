@@ -49,7 +49,7 @@ class Chain:
             the seamless integration of business processes through automated tools. 
             Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
             process optimization, cost reduction, and heightened overall efficiency. 
-            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of Insight Solution
+            Your job is to write a email to the client regarding the job mentioned above describing the capability of Insight Solution
             in fulfilling their needs.
             Also add the most relevant ones from the following links to showcase Insight Solution's portfolio: {link_list}
             Remember Sanjay swamy, a Data analytics and engineer at Insight Solution. 
